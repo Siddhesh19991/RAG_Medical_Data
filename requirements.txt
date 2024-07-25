@@ -1,0 +1,13 @@
+chromadb
+langchain 
+langchain-mongodb 
+pymongo 
+pypdf
+transformers
+torch
+langchain_community
+langchain_core
+bitsandbytes
+openai
+vllm
+langchain_cohere
