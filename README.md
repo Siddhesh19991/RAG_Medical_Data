@@ -1,6 +1,6 @@
 # RAG_Medical_Data
 
-This repository demonstrates the implemntation of a RAG pipeline using Llama-3-8B. It is part of a comparative study between fine-tuning and RAG (Retrieval-Augmented Generation) to determine which approach is more suitable for our use case.
+This repository demonstrates the implementation of an RAG pipeline using Llama-3-8B. It is part of a comparative study between fine-tuning and Retrieval-Augmented Generation (RAG) to determine which approach is more suitable for our use case.
 
 The detailed blog can be found here.
 
