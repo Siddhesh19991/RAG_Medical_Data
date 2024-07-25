@@ -7,7 +7,7 @@ The detailed blog can be found here.
 RAG_medical.ipynb contains all the code necessary for setting up the RAG pipeline
 
 ### Dataset
-For this project, we will be using publicly available medical data. This dataset is structured as prompt-completion pairs, where users ask medical questions and receive relevant responses from doctors.
+For this project, we will be using publicly available medical data. This dataset is structured as prompt-completion pairs, where users ask medical questions and receive relevant responses from doctors. ([Data Source](https://github.com/Kent0n-Li/ChatDoctor/blob/main/README.md)) 
 
 
 Overview of the pipeline: 
