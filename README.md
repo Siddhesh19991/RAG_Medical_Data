@@ -17,7 +17,7 @@ Overview of the pipeline:
 
 For questions or feedback about the project, don't hesitate to reach out to me on [LinkedIn](https://www.linkedin.com/in/siddhesh-sreedar/).
 
-The fine-tuning implementation for this study can be found [here](https://github.com/Siddhesh19991/Llama-3-8B-Fine-tune).
+**The fine-tuning implementation for this study can be found [here](https://github.com/Siddhesh19991/Llama-3-8B-Fine-tune).**
 
 
 
